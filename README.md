@@ -6,11 +6,9 @@
 
 ## Зміст
 
-[link text itself]
 [Відкрита заява в поліцію](Open-statement-to-the-police.md)
 
-
- Роман Козак (Пилипчук)
+Роман Козак (Пилипчук)
 
 cossack.roman@gmail.com  
 Головний github-екаунт - https://github.com/phoenixway/
