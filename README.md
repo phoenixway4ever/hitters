@@ -6,7 +6,8 @@
 
 ## Зміст
 
-[Відкрита заява в поліцію](Open-statement-to-the-police.md)
+[Відкрита заява в поліцію](Open-statement-to-the-police.md)  
+[Акустичні удари](/Acoustic-shocking-strikes.md)
 
 ## Автор
 Роман Козак (Пилипчук)
